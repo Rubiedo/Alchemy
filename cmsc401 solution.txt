@@ -1,0 +1,3 @@
+Stephen Wu
+
+I start off creating a directed graph between metalX and metal Y. The edges between the two points are weighted by CostXY. After the creation, i use the dijkstra's algorithm to find the least weighted path between 46 to 70 of a given algorithm. 
